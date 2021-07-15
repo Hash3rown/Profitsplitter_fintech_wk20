@@ -4,11 +4,11 @@ This repository contains a .sol smart contract which can be used to evenly distr
 
 Simply deploy the contract (specifying the three addresses)
 
-![deploy scrn](screenshots/deploy.png)
+![deploy scrn](screenshots/Deploy.png)
 ****
 Check your wallet balances:
 
-![before](screenshots/before.png)
+![before](screenshots/Before.png)
 ****
 Send a transaction (in this example we're sending 13 ETH):
 
